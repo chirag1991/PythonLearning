@@ -5,4 +5,9 @@ person={
 
 }
 
-print(person["socialmedia"])
+print(person)
+person['address'] = 'cope crescent'
+print(person)
+del person['key']
+print(person)
+
