@@ -1,2 +1,2 @@
 # PythonLearning
-this is my directory for python Examples from basis to advance
+this is my directory for python Examples from basic to advance
