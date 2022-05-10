@@ -4,6 +4,3 @@ foods = ('Apple', 'Pizza', 'banana',)
 for food in foods:
     print("Food in Foods is: ",food)
 
-
-
-
